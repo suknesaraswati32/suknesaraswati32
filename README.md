@@ -19,67 +19,42 @@
 
   <br/><br/><br/>
 
-  <!-- Profile Buttons -->
+  <!-- Profile Buttons: Single Horizontal Row -->
   <p>
     <a href="YOUR_PORTFOLIO_URL">
       <img
-        src="https://img.shields.io/badge/PORTFOLIO-555555?style=for-the-badge&logo=vercel&logoColor=white"
-        alt="Portfolio"
-      />
-    </a>
-    <a href="YOUR_PROJECTS_URL">
-      <img
-        src="https://img.shields.io/badge/VIEW_PROJECTS-111111?style=for-the-badge"
-        alt="View Projects"
-      />
-    </a>
-  </p>
-
-  <p>
-    <a href="./Resume.pdf">
-      <img
-        src="https://img.shields.io/badge/RESUME-555555?style=for-the-badge&logo=googledrive&logoColor=white"
-        alt="Resume"
+        src="https://img.shields.io/badge/PORTFOLIO-VIEW_PROJECTS-111111?style=for-the-badge&logo=vercel&logoColor=white&labelColor=555555"
+        alt="Portfolio - View Projects"
       />
     </a>
     <a href="./Resume.pdf">
       <img
-        src="https://img.shields.io/badge/VIEW_RESUME-E53935?style=for-the-badge"
-        alt="View Resume"
-      />
-    </a>
-  </p>
-
-  <p>
-    <a href="YOUR_LINKEDIN_URL">
-      <img
-        src="https://img.shields.io/badge/LINKEDIN-555555?style=for-the-badge&logo=linkedin&logoColor=white"
-        alt="LinkedIn"
+        src="https://img.shields.io/badge/RESUME-VIEW_RESUME-E53935?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=555555"
+        alt="Resume - View Resume"
       />
     </a>
     <a href="YOUR_LINKEDIN_URL">
       <img
-        src="https://img.shields.io/badge/CONNECT-0969DA?style=for-the-badge"
-        alt="Connect on LinkedIn"
+        src="https://img.shields.io/badge/LINKEDIN-CONNECT-0969DA?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=555555"
+        alt="LinkedIn - Connect"
       />
     </a>
   </p>
 
-  <br/>
+  <br/><br/><br/>
 
   <!-- Professional Tagline -->
-  <h3>
-    Software Engineering Undergraduate · Full-Stack &amp; Backend Development · Exploring Machine Learning
-  </h3>
-
-  <br/>
-
   <p>
-    <sub>Open to Software Engineering Internships and Entry-Level Opportunities</sub>
+    <b>Software Engineering Undergraduate · Full-Stack &amp; Backend Development · Exploring Machine Learning</b>
   </p>
 
-</div>
+  <br/><br/>
 
-<!-- ================= END PROFILE HEADER ================= -->
+  <!-- Internship Message -->
+  <sub>Open to Software Engineering Internships and Entry-Level Opportunities</sub>
+
+  <br/><br/>
+
+</div>
 
 ---
