@@ -5,7 +5,6 @@
   width="100%"
   alt="Saraswati Sukne - Aspiring Software Engineer"
 />
-/>
 
 <br/><br/>
 
