@@ -1,18 +1,20 @@
 <div align="center">
 
-<!-- Header Banner -->
 <img
-  src="https://capsule-render.vercel.app/api?type=rect&color=E0C6FF&height=155&section=header&text=Saraswati%20Sukne&fontSize=50&fontColor=000000&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20Exploring%20Machine%20Learning&descSize=20&descColor=000000&descAlignY=72"
+  src="https://capsule-render.vercel.app/api?type=rect&color=E0C6FF&height=155&section=header&text=Saraswati%20Sukne&fontSize=50&fontColor=000000&fontAlignY=40&desc=Aspiring%20Software%20Engineer%20%7C%20MERN%20Stack%20Developer%20%7C%20Machine%20Learning%20Enthusiast&descSize=16&descColor=000000&descAlignY=72"
   width="100%"
-  alt="Saraswati Sukne"
+  alt="Saraswati Sukne - Aspiring Software Engineer"
+/>
 />
 
 <br/><br/>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;MERN-Stack+Developer;Exploring+Machine+Learning"
-  alt="Full-Stack Developer | MERN-Stack Developer | Exploring Machine Learning"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;MERN+Stack+Developer;Machine+Learning+Enthusiast"
+  alt="Aspiring Software Engineer | MERN Stack Developer | Machine Learning Enthusiast"
 />
+
+</div>
 
 <br/><br/><br/>
 
